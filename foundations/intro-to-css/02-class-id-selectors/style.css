@@ -1,0 +1,23 @@
+.Odd
+{
+    background-color: rgb(255, 182, 193);
+    font-family: 'Verdana', "DejaVu Sans", 'sans-serif';
+
+}
+
+#Second
+{
+    color: hsl(241, 91%, 45%);
+    font-size: 36px;
+}
+
+.font-sizer{
+    font-size: 24px;
+}
+
+#Fourth
+{
+    background-color:#90ee90;
+    font-weight: bold;
+}
+
